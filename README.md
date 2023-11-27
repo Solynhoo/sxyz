@@ -3,11 +3,13 @@
 
 **Olá!** Bem-vindo ao meu repositorio publico contendo todo o codigo do meu site!
 - 🔌 Aqui nesse site está incluido informações basicas minhas e minhas redes sociais
----
 
 ## Setup
+
 Rode o codigo
+
 `npx nuxi init -t themes/content-wind my-website`
+
 Siga as instruções e pronto!🚀
 ---
 ## 💡 Agradecimentos especiais
