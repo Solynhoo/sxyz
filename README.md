@@ -1,21 +1,9 @@
-# My Website
+# ⭐ S.xyz - O meu site pessoal!
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%Solynhoo%2sxyz)
+**Olá!** Bem-vindo ao meu repositorio publico contendo todo o codigo do meu site!
 
-My website made by [Content Wind](https://content-wind.nuxt.space) theme.
-
-## Setup
-
-```bash
-npm install
-```
-
-## Development
-
-```bash
-npm run dev
-```
-
-Then open [http://localhost:3000](http://localhost:3000) to see your app.
-
-## Deployment
-
-Learn more how to deploy on [Nuxt docs](https://nuxt.com/docs/getting-started/deployment).
+---
+# 🛑 Creditos
+> Vercel
+> Cloudflare
+> Agradecimentos especiais a: https://github.com/Atinux/content-wind pelo codigo original
