@@ -3,6 +3,7 @@ export default defineAppConfig({
   cover: '/cover.jpg',
   socials: {
     twitter: 'OnlySolyn',
+    instagram: 'OnlySolyn',
     github: 'Solynhoo',
   }
 })
