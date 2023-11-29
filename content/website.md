@@ -1,7 +1,7 @@
 ---
-navigation.title: '☀️ Biografia'
-title: '☀️ Solyn'
-description: 'Seja bem-vindo ao meu mundo!'
+navigation.title: '🌹 - Biografia'
+title: '🌱 Solyn'
+description: '🐱 Um site pessoal!'
 ---
 
 <style> 
@@ -105,6 +105,7 @@ Umas informações basicas acerca de alguns dispositivos que tenho!
 
 Eu espero que tenha curtido a minha biografia!
 - Sou mais ativo no Twitter, então caso queira falar comigo, seria o melhor lugar para isso!
+
 Eu estou muito feliz de ter feito essa pagina, gosto de gastar os meus tempos livres focando nos meus hobbies e estudando sobre qualquer assunto que eu ache interessante
 
 As vezes quando estou livre gosto de me divertir com meus amigos e fazer as coisas que eu mais amo!
