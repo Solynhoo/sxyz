@@ -11,9 +11,10 @@
 
 
 User-agent: *
-Disallow: /_src
-Disallow: /_nuxt
-Disallow: /_logs
+Disallow: /_src/
+Disallow: /_nuxt/
+Disallow: /_logs/
+Disallow: /cdn-cgi/
 
 
 User-agent: nsa
