@@ -4,5 +4,6 @@ export default defineAppConfig({
   socials: {
     twitter: 'Solynhoo',
     github: 'Solynhoo',
+    mastodon: '@solyn@mastodon.online'
   }
 })
