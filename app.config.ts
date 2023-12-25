@@ -3,7 +3,6 @@ export default defineAppConfig({
   cover: '/cover.png',
   socials: {
     twitter: 'Solynhoo',
-    github: 'Solynhoo',
-    mastodon: '@solyn@mastodon.online'
+    github: 'Solynhoo'
   }
 })
